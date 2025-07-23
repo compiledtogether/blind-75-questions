@@ -1,0 +1,26 @@
+# https://leetcode.com/problems/longest-substring-without-repeating-characters/
+
+def longestSubstringWithoutRepeatingCharacters(s: str) -> int:
+    charSet = set()
+    l = 0
+    result = 0
+
+    for r in range(len(s)):
+        while s[r] in charSet:
+            charSet.remove(s[l])
+            l += 1
+        charSet.add(s[r])
+
+        result = max(result, r - l + 1)
+
+    return result
+
+# Test Cases
+
+string = "abcabcbb"
+output = 3
+
+print(longestSubstringWithoutRepeatingCharacters(string) == output)
+
+# Time Complexity: O(n)
+# Space Complexity: O(n)
