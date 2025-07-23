@@ -15,7 +15,12 @@ def longestSubstringWithoutRepeatingCharacters(s: str) -> int:
 
     return result
 
-print(longestSubstringWithoutRepeatingCharacters("abcabcbb"))
+# Test Cases
+
+string = "abcabcbb"
+output = 3
+
+print(longestSubstringWithoutRepeatingCharacters(string) == output)
 
 # Time Complexity: O(n)
 # Space Complexity: O(n)

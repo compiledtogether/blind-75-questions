@@ -1,16 +1,26 @@
 # Longest Substring Without Repeating Characters
 
-## Topic: String, Sliding Window
+## Topic
+- String
+- Sliding Window
+
+---
+
 
 ## Explanation
 
+### Algorithm:
+1. Take two pointers `left` and `right`.
+2. Slide the window using a set to track unique characters.
+3. If the set already contains the character at `right`, remove the leftmost character and increment `left`.  
+   - Why? Because once a duplicate is found, there's no point in checking substrings starting with the current `left`—move to the next character.
+4. Update the result as the maximum of the current result and `(right - left + 1)`.
 
-input: abcabcbb
+---
 
-output: 3
+## Test Cases:
 
-1. Take two pointers left and right
-2. Slide the window to check the substring which has unique characters by using a set
-3. If the set has already character, remove the left most character and increment the left pointer. why? if the first duplicate letter is found, no need to check the substring starting with first letter.
-Start with immediate next from left letter.
-4. calculate the result by checking max from result or (r-l + 1)
+```python
+string = 'abcabcbb'  
+output = 3
+```
