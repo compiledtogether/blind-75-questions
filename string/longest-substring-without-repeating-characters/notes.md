@@ -24,3 +24,10 @@
 string = 'abcabcbb'  
 output = 3
 ```
+
+## Time & Space Complexity
+
+| Complexity | Value |
+|------------|-------|
+| Time       | O(n)  |
+| Space      | O(n)  |

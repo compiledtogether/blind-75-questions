@@ -34,3 +34,14 @@ nums3 = [3, 3]
 target3 = 6
 output3 = [0, 1]
 ```
+
+---
+
+## Time & Space Complexity
+
+| Complexity | Value |
+|------------|-------|
+| Time       | O(n)  |
+| Space      | O(n)  |
+
+## Note: If the numbers are sorted, then we can also use two pointer method, in which we can iterate from left and right, and try to find the sum, and move left or right, if the sum exceeds or falls short of the target.
