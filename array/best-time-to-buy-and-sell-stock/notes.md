@@ -11,8 +11,6 @@ Iterate the elements, start for minimal value for buy, so that, profit can be ma
 
 ### Algorithm
 
-#### Approach 1: (Using Set)
-
 1. Initialize buy with first day value, and profit as 0
 2. Iterate from day 2 value to last day, if the buy value is greater, update the buy value, else, find the profit for that day, and if the profit (current day - buy day) is greater, update the profit.
 3. Return the profit
