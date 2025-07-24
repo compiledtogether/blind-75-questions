@@ -82,25 +82,33 @@
 58. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 59. [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 
-## Other
+## Sliding Window
 
 60. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 61. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 62. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 63. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
-64. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
-65. [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
-66. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
-67. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
-68. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
-69. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
-70. [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
-71. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
-72. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
-73. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
-74. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
-75. [Same Tree](https://leetcode.com/problems/same-tree/)
-76. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
+
+## Stack and Queue
+
+64. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+65. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+66. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+67. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+68. [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
+
+## Tree
+
+69. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+70. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+71. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+72. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
+73. [Same Tree](https://leetcode.com/problems/same-tree/)
+74. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
+
+## Hashing
+75. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+76. [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 
 ### Important Link: https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
 
