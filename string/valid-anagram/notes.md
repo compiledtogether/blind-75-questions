@@ -26,5 +26,5 @@
 
 | Complexity | Value |
 |------------|-------|
-| Time       | O(nlong)  |
+| Time       | O(nlogn)  |
 | Space      | O(1)  |
