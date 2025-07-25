@@ -1,6 +1,6 @@
 # Blind 75 LeetCode Questions
 
-## Array
+<!-- ## Array
 1. [Two Sum](https://leetcode.com/problems/two-sum/)
 2. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 3. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
@@ -112,9 +112,76 @@
 52. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 53. [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 54. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
-55. [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
+55. [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) -->
+
+Welcome to the Blind 75 LeetCode Solutions repository! Here, you'll find daily solutions to LeetCode problems, complete with detailed explanations.
+
+## Table of Contents
+
+### Topic: Array
+
+| Problem Number | Problem Name                                                                                                                    | Jump into Code | Explanation | Difficulty Level |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------- | -------------- | ----------- | ---------------- |
+| 1              | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                               | [Code](array/2-sum/solution.py)            | [Notes](array/2-sum/notes.md)         | Medium              |
+| 2              | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                               | [Code](array/best-time-to-buy-and-sell-stock/solution.py)            | [Notes](array/best-time-to-buy-and-sell-stock/notes.md)         | Medium              |
+| 3              | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                         | [Code](array/contains-duplicate/solution.py)            | [Notes](array/contains-duplicate/notes.md)         | Medium              |
+| 4              | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                     | [Code](array/product-of-array-except-self/solution.py)            | [Notes](array/product-of-array-except-self/notes.md)         | Medium              |
+| 5              | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                             | [Code](array/maximum-subarray/solution.py)            | [Notes](array/maximum-subarray/notes.md)         | Medium              |
+| 6              | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)                                             | [Code](array/maximum-product-subarray/solution.py)            | [Notes](array/maximum-product-subarray/notes.md)         | Medium              |
+| 7              | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)                     | [Code](array/find-minimum-in-rotated-sorted-array/solution.py)            | [Notes](array/find-minimum-in-rotated-sorted-array/notes.md)         | Medium              |
+| 8              | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                 | [Code](array/search-in-rotated-sorted-array/solution.py)            | [Notes](array/search-in-rotated-sorted-array/notes.md)         | Medium              |
+| 9              | [3Sum](https://leetcode.com/problems/3sum/)                                                                                     | [Code](array/3sum//solution.py)            | [Notes](array/3sum//notes.md)         | Medium              |
+| 10             | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                                           | [Code](array/container-with-most-water/solution.py)            | [Notes](array/container-with-most-water/notes.md)         | Medium              |
+| 11             | [4Sum](https://leetcode.com/problems/4sum)                                                                                      | [Code](array/4sum/solution.py)            | [Notes](array/4sum/notes.md)         | Medium              |
+
+---
+
+### Topic: Hashing
+
+| Problem Number | Problem Name                                                                                                                    | Jump into Code | Explanation | Difficulty Level |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------- | -------------- | ----------- | ---------------- |
+| 12             | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                               | [Code](hashing/top-k-frequent-elements/solution.py)            | [Notes](hashing/top-k-frequent-elements/notes.md)         | Medium              |
+| 13             | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                 | [Code](hashing/group-anagrams/solution.py)            | [Notes](hashing/group-anagrams/notes.md)         | Medium              |
+| 14             | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)                                                    | [Code](hashing/subarray-sum-equals-ksolution.py)            | [Notes](hashing/subarray-sum-equals-knotes.md)         | Medium              |
+
+---
+
+### Topic: Sliding Window
+
+| Problem Number | Problem Name                                                                                                                    | Jump into Code | Explanation | Difficulty Level |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------- | -------------- | ----------- | ---------------- |
+| 15             | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)                                                 | [Code](sliding-window/sliding-window-maximum/solution.py)            | [Notes](sliding-window/sliding-window-maximum/notes.md)         | Hard              |
+| 16             | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)               | [Code](sliding-window/longest-repeating-character-replacement/solution.py)            | [Notes](sliding-window/longest-repeating-character-replacement/notes.md)         | Medium              |
+| 17             | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)                                             | [Code](sliding-window/minimum-window-substring/solution.py)            | [Notes](sliding-window/minimum-window-substring/notes.md)         | Hard              |
+| 18             | [Permutation in String](https://leetcode.com/problems/permutation-in-string/)                                                   | [Code](sliding-window/permutation-in-string/solution.py)            | [Notes](sliding-window/permutation-in-string/notes.md)         | Medium              |
+| 19             | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Code](sliding-window/longest-substring-without-repeating-characters/solution.py)            | [Notes](sliding-window/longest-substring-without-repeating-characters/notes.md)         | Medium              |
+
+---
+
+### Topic: String
+
+| Problem Number | Problem Name                                                                                                                    | Jump into Code | Explanation | Difficulty Level |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------- | -------------- | ----------- | ---------------- |
+| 20             | [Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/)                                 | TBD            | TBD         | TBD              |
+| 21             | [Word Search II](https://leetcode.com/problems/word-search-ii/)                                                                 | TBD            | TBD         | TBD              |
+| 22             | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                   | [Code](string/valid-anagram/solution.py)            | [Notes](string/valid-anagram/notes.md)         | Easy              |
+
+---
+
+### Topic: Binary
+
+| Problem Number | Problem Name                                                                                                                    | Jump into Code | Explanation | Difficulty Level |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------- | -------------- | ----------- | ---------------- |
+| 23             | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)                                                       | TBD            | TBD         | TBD              |
+| 24             | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                                             | TBD            | TBD         | TBD              |
+| 25             | [Counting Bits](https://leetcode.com/problems/counting-bits/)                                                                   | TBD            | TBD         | TBD              |
+| 26             | [Missing Number](https://leetcode.com/problems/missing-number/)                                                                 | TBD            | TBD         | TBD              |
+| 27             | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)                                                                     | TBD            | TBD         | TBD              |
+
+---
 
 
-### Important Link: https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
+### Important Resources:
 
-### https://www.techinterviewhandbook.org/grind75/
+* [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+* [Tech Interview Handbook: Grind 75](https://www.techinterviewhandbook.org/grind75/)
