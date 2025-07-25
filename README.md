@@ -12,6 +12,26 @@
 9. [3Sum](https://leetcode.com/problems/3sum/)
 10. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
+## Hashing
+
+11. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+12. [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+13. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)
+
+## Sliding Window
+
+14. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
+15. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+16. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+17. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+18. [Permutation in String](https://leetcode.com/problems/permutation-in-string/)
+
+## String
+
+19. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+20. [Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/)
+21. [Word Search II](https://leetcode.com/problems/word-search-ii/)
+
 ## Binary
 11. [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
 12. [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
@@ -66,28 +86,9 @@
 49. [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
 
 
-## String
-
-50. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
-51. [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
-52. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
-53. [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
-54. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
-55. [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
-56. [Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/)
-57. [Word Search II](https://leetcode.com/problems/word-search-ii/)
-
 ## Heap
 
-58. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 59. [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
-
-## Sliding Window
-
-60. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
-61. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-62. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
-63. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 
 ## Stack and Queue
 
@@ -105,10 +106,13 @@
 72. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
 73. [Same Tree](https://leetcode.com/problems/same-tree/)
 74. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
+50. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+51. [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+52. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+53. [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
+54. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+55. [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
 
-## Hashing
-75. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
-76. [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 
 ### Important Link: https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
 

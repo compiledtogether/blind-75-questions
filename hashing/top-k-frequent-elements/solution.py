@@ -4,7 +4,6 @@ from typing import List
 
 def topKFrequent(nums: List[int], k: int) -> List[int]:
     counter = {}
-    result = []
 
     for num in nums:
         if num in counter:
