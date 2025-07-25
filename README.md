@@ -11,26 +11,27 @@
 8. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 9. [3Sum](https://leetcode.com/problems/3sum/)
 10. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+11. [kSum with K = 4](https://leetcode.com/problems/4sum)
 
 ## Hashing
 
-11. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
-12. [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
-13. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)
+12. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+13. [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+14. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)
 
 ## Sliding Window
 
-14. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
-15. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+15. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 16. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 17. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 18. [Permutation in String](https://leetcode.com/problems/permutation-in-string/)
+19. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 ## String
 
-19. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 20. [Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/)
 21. [Word Search II](https://leetcode.com/problems/word-search-ii/)
+22. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 
 ## Binary
 11. [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
