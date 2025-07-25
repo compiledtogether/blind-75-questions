@@ -25,6 +25,8 @@ string = 'abcabcbb'
 output = 3
 ```
 
+---
+
 ## Time & Space Complexity
 
 | Complexity | Value |

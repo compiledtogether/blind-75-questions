@@ -1,3 +1,5 @@
+# https://leetcode.com/problems/4sum
+
 def fourSum(nums: list, target: int) -> list:
     def kSum(nums: list, target: int, k: int) -> list:
         result = []

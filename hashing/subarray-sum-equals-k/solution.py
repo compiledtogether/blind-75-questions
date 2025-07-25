@@ -1,3 +1,5 @@
+# https://leetcode.com/problems/subarray-sum-equals-k
+
 from typing import List
 def subarraySum(nums: List[int], k: int) -> int:
     prefixSum, result, currSum = {0:1}, 0, 0
