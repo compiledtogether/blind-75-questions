@@ -1,4 +1,4 @@
-# Valid Anagrams
+# Pow(x,n)
 
 ## Topics
 - Math

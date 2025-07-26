@@ -1,4 +1,4 @@
-# Valid Anagrams
+# Sqrt(x)
 
 ## Topics
 - Math
