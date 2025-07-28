@@ -132,7 +132,6 @@ Welcome to the Blind 75 LeetCode Solutions repository! Here, you'll find daily s
 | 8              | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                 | [Code](array/search-in-rotated-sorted-array/solution.py)            | [Notes](array/search-in-rotated-sorted-array/notes.md)         | Medium              |
 | 9              | [3Sum](https://leetcode.com/problems/3sum/)                                                                                     | [Code](array/3sum/solution.py)            | [Notes](array/3sum/notes.md)         | Medium              |
 | 10             | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                                           | [Code](array/container-with-most-water/solution.py)            | [Notes](array/container-with-most-water/notes.md)         | Medium              |
-| 11             | [4Sum](https://leetcode.com/problems/4sum)                                                                                      | [Code](array/4sum/solution.py)            | [Notes](array/4sum/notes.md)         | Medium              |
 
 ---
 
