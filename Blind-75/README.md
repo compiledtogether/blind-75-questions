@@ -166,6 +166,7 @@ Welcome to the Blind 75 LeetCode Solutions repository! Here, you'll find daily s
 | 22             | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                   | [Code](string/valid-anagram/solution.py)            | [Notes](string/valid-anagram/notes.md)         | Easy              |
 | 23             | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                   | [Code](string/valid-palindrome/solution.py)            | [Notes](string/valid-palindrome/notes.md)         | Easy              |
 | 24             | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                                   | [Code](string/valid-parentheses/solution.py)            | [Notes](string/valid-parentheses/notes.md)         | Easy              |
+| 25             | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)                                                                   | [Code](string/longest-palindrome/solution.py)            | [Notes](string/longest-palindrome/notes.md)         | Easy              |
 
 ---
 
