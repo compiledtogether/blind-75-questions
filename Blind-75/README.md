@@ -171,6 +171,14 @@ Welcome to the Blind 75 LeetCode Solutions repository! Here, you'll find daily s
 
 ---
 
+### Topic: Linked Lists
+
+| Problem Number | Problem Name                                                                                                                    | Jump into Code | Explanation | Difficulty Level |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------- | -------------- | ----------- | ---------------- |
+| 26             | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)                                 | [Code](linked-lists/middle-of-the-linked-list/solution.py)            | [Notes](linked-lists/middle-of-the-linked-list/notes.md)         | Easy |
+
+---
+
 ### Topic: Binary
 
 | Problem Number | Problem Name                                                                                                                    | Jump into Code | Explanation | Difficulty Level |
