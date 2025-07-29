@@ -1,4 +1,4 @@
-# Linked List Cycle
+# Linked List Cycle II
 
 ## Topics
 - Linked List
@@ -20,8 +20,14 @@
 
 Note: One pointer will move one step and another one will move two steps
 
-3. Return the Result
-- Check if the slow and fast pointer are same, if yes, return true (cycle exists), else return false (no cycle) after loop ends.
+3. Detect loop
+- Check if the slow and fast pointer are same, if yes, break the loop (cycle exists), else return None (no cycle) after loop ends.
+
+4. Re-initialize the fast pointer
+- Re-initialize the fast pointer to head, and run the loop till the fast and slow pointer are not same. By incrementing the slow and fast pointer together
+
+5. Return the result:
+- Once the loop breaks, return the slow pointer
 
 ---
 
@@ -29,8 +35,9 @@ Note: One pointer will move one step and another one will move two steps
 
 **Input:**
 head = [3,2,0,-4]
+pos = 1
 **Output:**
-output = True
+Output = "tail connects to node index 1"
 
 --- 
 
