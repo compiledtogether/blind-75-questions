@@ -165,6 +165,7 @@ Welcome to the Blind 75 LeetCode Solutions repository! Here, you'll find daily s
 | 21             | [Word Search II](https://leetcode.com/problems/word-search-ii/)                                                                 | TBD            | TBD         | TBD              |
 | 22             | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                   | [Code](string/valid-anagram/solution.py)            | [Notes](string/valid-anagram/notes.md)         | Easy              |
 | 23             | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                   | [Code](string/valid-palindrome/solution.py)            | [Notes](string/valid-palindrome/notes.md)         | Easy              |
+| 24             | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                                   | [Code](string/valid-parentheses/solution.py)            | [Notes](string/valid-parentheses/notes.md)         | Easy              |
 
 ---
 
