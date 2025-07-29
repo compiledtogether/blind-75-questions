@@ -1,4 +1,4 @@
-# Middle of the Linked List
+# Linked List Cycle
 
 ## Topics
 - Linked List
@@ -10,7 +10,7 @@
 ### Algorithm
 
 1. Initialize Pointers
-- Take two pointers first and second
+- Take two pointers fast and slow
 
 2. Loop Through Lists
 
@@ -21,16 +21,16 @@
 Note: One pointer will move one step and another one will move two steps
 
 3. Return the Result
-return the first pointer, as it will reach the middle of the list
+Check if the slow and fast pointer are same, if yes, return true (cycle exists), else return false (no cycle) after loop ends.
 
 ---
 
 ## Test Cases
 
 **Input:**
-head = [1,2,3,4,5]
+head = [3,2,0,-4]
 **Output:**
-output = [3,4,5]
+output = True
 
 --- 
 
