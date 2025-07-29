@@ -164,6 +164,7 @@ Welcome to the Blind 75 LeetCode Solutions repository! Here, you'll find daily s
 | 20             | [Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/)                                 | TBD            | TBD         | TBD              |
 | 21             | [Word Search II](https://leetcode.com/problems/word-search-ii/)                                                                 | TBD            | TBD         | TBD              |
 | 22             | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                   | [Code](string/valid-anagram/solution.py)            | [Notes](string/valid-anagram/notes.md)         | Easy              |
+| 23             | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                   | [Code](string/valid-palindrome/solution.py)            | [Notes](string/valid-palindrome/notes.md)         | Easy              |
 
 ---
 
