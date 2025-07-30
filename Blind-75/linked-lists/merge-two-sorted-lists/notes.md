@@ -21,8 +21,7 @@
 3. Attach remaining list
 - Check whichever list is remaining and attach the remaining to the result.next
 
-
-3. Return the Result
+4. Return the Result
 return the resultHead.next, as it points to the head of result
 
 ---
