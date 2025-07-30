@@ -21,13 +21,13 @@ Each topic contains:
 | Arrays and Strings        | [Arrays and Strings](./Topics/Arrays-and-Strings/README.md)  |
 | Recurison                 | [Recurison](./Topics/Recurison/README.md)                    |
 | Math                      | [Math](./Topics/Math/README.md)                              |
+| Linked List               | [Linked List](./Topics/LinkedList/README.md)                 |
 <!-- | Two Pointers              | [Two Pointers](./Topics/TwoPointers/README.md)               | -->
 <!-- | Stack                     | [Stack](./Topics/Stack/README.md)                            |
 | Queue                     | [Queue](./Topics/Queue/README.md)                            |
 | Trees                     | [Trees](./Topics/Trees/README.md)                            |
 | Graphs                    | [Graphs](./Topics/Graphs/README.md)                          |
 | Dynamic Programming       | [Dynamic Programming](./Topics/Dynamic-Programming/README.md)|
-| Linked List               | [Linked List](./Topics/LinkedList/README.md)                 |
 | Binary Search             | [Binary Search](./Topics/BinarySearch/README.md)             |
 | Sliding Window            | [Sliding Window](./Topics/SlidingWindow/README.md)           |
 | Greedy                    | [Greedy](./Topics/Greedy/README.md)                          |
