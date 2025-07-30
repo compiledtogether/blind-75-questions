@@ -178,6 +178,7 @@ Welcome to the Blind 75 LeetCode Solutions repository! Here, you'll find daily s
 | 26             | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)                                 | [Code](linked-lists/middle-of-the-linked-list/solution.py)            | [Notes](linked-lists/middle-of-the-linked-list/notes.md)         | Easy |
 | 27             | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)                                 | [Code](linked-lists/linked-list-cycle/solution.py)            | [Notes](linked-lists/linked-list-cycle/notes.md)         | Easy |
 | 28             | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)                                 | [Code](linked-lists/reverse-linked-list/solution.py)            | [Notes](linked-lists/reverse-linked-list/notes.md)         | Easy |
+| 28             | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                 | [Code](linked-lists/merge-two-sorted-lists/solution.py)            | [Notes](linked-lists/merge-two-sorted-lists/notes.md)         | Easy |
 
 
 ---
