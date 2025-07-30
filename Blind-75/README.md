@@ -180,6 +180,7 @@ Welcome to the Blind 75 LeetCode Solutions repository! Here, you'll find daily s
 | 28             | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)                                 | [Code](linked-lists/reverse-linked-list/solution.py)            | [Notes](linked-lists/reverse-linked-list/notes.md)         | Easy |
 | 28             | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                 | [Code](linked-lists/merge-two-sorted-lists/solution.py)            | [Notes](linked-lists/merge-two-sorted-lists/notes.md)         | Easy |
 | 29             | [Palindrome Linked Lists](https://leetcode.com/problems/palindrome-linked-list)                                 | [Code](linked-lists/palindrome-linked-list/solution.py)            | [Notes](linked-lists/palindrome-linked-list/notes.md)         | Easy |
+| 30             | [Reverse Nodes in K Group](https://leetcode.com/problems/reverse-nodes-in-k-group)                                 | [Code](linked-lists/reverse-nodes-in-k-group/solution.py)            | [Notes](linked-lists/reverse-nodes-in-k-group/notes.md)         | Hard |
 
 
 ---
