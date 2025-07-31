@@ -188,11 +188,23 @@ Welcome to the Blind 75 LeetCode Solutions repository! Here, you'll find daily s
 
 | Problem Number | Problem Name                                                                                                                    | Jump into Code | Explanation | Difficulty Level |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------- | -------------- | ----------- | ---------------- |
-| 23             | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)                                                       | TBD            | TBD         | TBD              |
-| 24             | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                                             | TBD            | TBD         | TBD              |
-| 25             | [Counting Bits](https://leetcode.com/problems/counting-bits/)                                                                   | TBD            | TBD         | TBD              |
-| 26             | [Missing Number](https://leetcode.com/problems/missing-number/)                                                                 | TBD            | TBD         | TBD              |
-| 27             | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)                                                                     | TBD            | TBD         | TBD              |
+| 30             | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)                                                       | TBD            | TBD         | TBD              |
+| 31             | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                                             | TBD            | TBD         | TBD              |
+| 32             | [Counting Bits](https://leetcode.com/problems/counting-bits/)                                                                   | TBD            | TBD         | TBD              |
+| 33             | [Missing Number](https://leetcode.com/problems/missing-number/)                                                                 | TBD            | TBD         | TBD              |
+| 34             | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)                                                                     | TBD            | TBD         | TBD              |
+
+---
+
+### Topic: Trees
+
+| Problem Number | Problem Name                                                                                                                    | Jump into Code | Explanation | Difficulty Level |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------- | -------------- | ----------- | ---------------- |
+| 35             | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                                                       | [Code](trees/binary-tree-level-order-traversal/solution.py)            | [Notes](trees/binary-tree-level-order-traversal/notes.md)         | Medium              |
+<!-- | 36             | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                                             | TBD            | TBD         | TBD              |
+| 37             | [Counting Bits](https://leetcode.com/problems/counting-bits/)                                                                   | TBD            | TBD         | TBD              |
+| 38             | [Missing Number](https://leetcode.com/problems/missing-number/)                                                                 | TBD            | TBD         | TBD              |
+| 39             | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)                                                                     | TBD            | TBD         | TBD              | -->
 
 ---
 
