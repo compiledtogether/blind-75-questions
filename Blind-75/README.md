@@ -1,37 +1,17 @@
 # Blind 75 LeetCode Questions
 
-<!-- ## Array
-1. [Two Sum](https://leetcode.com/problems/two-sum/)
-2. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-3. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-4. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
-5. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-6. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
-7. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
-8. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-9. [3Sum](https://leetcode.com/problems/3sum/)
-10. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
-11. [kSum with K = 4](https://leetcode.com/problems/4sum)
-
-## Hashing
-
-12. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
-13. [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
-14. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)
-
+<!-- 
 ## Sliding Window
 
 15. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
-16. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 17. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
-18. [Permutation in String](https://leetcode.com/problems/permutation-in-string/)
-19. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
 
 ## String
 
 20. [Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/)
 21. [Word Search II](https://leetcode.com/problems/word-search-ii/)
-22. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+
 
 ## Binary
 11. [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
@@ -61,10 +41,7 @@
 31. [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
 
 ## Linked List
-32. [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)
-33. [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)
-34. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
-35. [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+
 36. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 37. [Reorder List](https://leetcode.com/problems/reorder-list/)
 
@@ -93,9 +70,7 @@
 
 ## Stack and Queue
 
-64. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 65. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
-66. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 67. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 68. [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
 
@@ -107,11 +82,11 @@
 72. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
 73. [Same Tree](https://leetcode.com/problems/same-tree/)
 74. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
+54. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+
 50. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 51. [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
-52. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 53. [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
-54. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 55. [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) -->
 
 Welcome to the Blind 75 LeetCode Solutions repository! Here, you'll find daily solutions to LeetCode problems, complete with detailed explanations.
@@ -180,7 +155,7 @@ Welcome to the Blind 75 LeetCode Solutions repository! Here, you'll find daily s
 | 28             | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)                                 | [Code](linked-lists/reverse-linked-list/solution.py)            | [Notes](linked-lists/reverse-linked-list/notes.md)         | Easy |
 | 28             | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                 | [Code](linked-lists/merge-two-sorted-lists/solution.py)            | [Notes](linked-lists/merge-two-sorted-lists/notes.md)         | Easy |
 | 29             | [LRU Cache](https://leetcode.com/problems/lru-cache/)                                 | [Code](linked-lists/lru-cache/solution.py)            | [Notes](linked-lists/lru-cache/notes.md)         | Easy |
-
+| 30             | [Merge K sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)                                 | [Code](linked-lists/merge-k-sorted-lists/solution.py)            | [Notes](linked-lists/merge-k-sorted-lists/notes.md)         | Hard |
 
 ---
 
@@ -188,11 +163,12 @@ Welcome to the Blind 75 LeetCode Solutions repository! Here, you'll find daily s
 
 | Problem Number | Problem Name                                                                                                                    | Jump into Code | Explanation | Difficulty Level |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------- | -------------- | ----------- | ---------------- |
-| 30             | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)                                                       | TBD            | TBD         | TBD              |
+
 | 31             | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                                             | TBD            | TBD         | TBD              |
 | 32             | [Counting Bits](https://leetcode.com/problems/counting-bits/)                                                                   | TBD            | TBD         | TBD              |
 | 33             | [Missing Number](https://leetcode.com/problems/missing-number/)                                                                 | TBD            | TBD         | TBD              |
 | 34             | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)                                                                     | TBD            | TBD         | TBD              |
+| 35             | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)                                                       | TBD            | TBD         | TBD              |
 
 ---
 
@@ -200,11 +176,7 @@ Welcome to the Blind 75 LeetCode Solutions repository! Here, you'll find daily s
 
 | Problem Number | Problem Name                                                                                                                    | Jump into Code | Explanation | Difficulty Level |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------- | -------------- | ----------- | ---------------- |
-| 35             | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                                                       | [Code](trees/binary-tree-level-order-traversal/solution.py)            | [Notes](trees/binary-tree-level-order-traversal/notes.md)         | Medium              |
-<!-- | 36             | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                                             | TBD            | TBD         | TBD              |
-| 37             | [Counting Bits](https://leetcode.com/problems/counting-bits/)                                                                   | TBD            | TBD         | TBD              |
-| 38             | [Missing Number](https://leetcode.com/problems/missing-number/)                                                                 | TBD            | TBD         | TBD              |
-| 39             | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)                                                                     | TBD            | TBD         | TBD              | -->
+| 36             | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                                                       | [Code](trees/binary-tree-level-order-traversal/solution.py)            | [Notes](trees/binary-tree-level-order-traversal/notes.md)         | Medium              |
 
 ---
 
