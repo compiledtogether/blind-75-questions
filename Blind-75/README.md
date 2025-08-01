@@ -165,6 +165,7 @@ Welcome to the Blind 75 LeetCode Solutions repository! Here, you'll find daily s
 | 39             | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)                                                      | [Code](trees/binary-tree-right-side-view/solution.py)            | [Notes](trees/binary-tree-right-side-view/notes.md)         | Medium              |
 | 40             | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)                                                      | [Code](trees/construct-binary-tree-from-preorder-and-inorder-traversal/solution.py)            | [Notes](trees/construct-binary-tree-from-preorder-and-inorder-traversal/notes.md)         | Medium              |
 | 41             | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)                                                      | [Code](trees/kth-smallest-element-in-a-bst/solution.py)            | [Notes](trees/kth-smallest-element-in-a-bst/notes.md)         | Medium              |
+| 41             | [Validate BST](https://leetcode.com/problems/validate-binary-search-tree/)                                                      | [Code](trees/validate-binary-search-tree/solution.py)            | [Notes](trees/validate-binary-search-tree/notes.md)         | Medium              |
 
 ---
 
