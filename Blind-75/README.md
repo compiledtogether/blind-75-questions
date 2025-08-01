@@ -77,7 +77,6 @@
 ## Tree
 
 69. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
-72. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
 73. [Same Tree](https://leetcode.com/problems/same-tree/)
 74. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
 54. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
@@ -180,6 +179,7 @@ Welcome to the Blind 75 LeetCode Solutions repository! Here, you'll find daily s
 | 39             | [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)                                                       | [Code](trees/serialize-and-deserialize-bst/solution.py)            | [Notes](trees/serialize-and-deserialize-bst/notes.md)         | Medium              |
 | 40             | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                                       | [Code](trees/maximum-depth-of-binary-tree/solution.py)            | [Notes](trees/maximum-depth-of-binary-tree/notes.md)         | Easy              |
 | 40             | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                                                       | [Code](trees/diameter-of-binary-tree/solution.py)            | [Notes](trees/diameter-of-binary-tree/notes.md)         | Easy              |
+| 40             | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)                                                      | [Code](trees/balanced-binary-tree/solution.py)            | [Notes](trees/balanced-binary-tree/notes.md)         | Easy              |
 
 ---
 
