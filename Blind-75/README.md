@@ -177,6 +177,7 @@ Welcome to the Blind 75 LeetCode Solutions repository! Here, you'll find daily s
 | 42             | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)                                                      | [Code](trees/balanced-binary-tree/solution.py)            | [Notes](trees/balanced-binary-tree/notes.md)         | Easy              |
 | 43             | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                                      | [Code](trees/invert-binary-tree/solution.py)            | [Notes](trees/invert-binary-tree/notes.md)         | Easy              |
 | 44             | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)                                                      | [Code](trees/binary-tree-right-side-view/solution.py)            | [Notes](trees/binary-tree-right-side-view/notes.md)         | Easy              |
+| 45             | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)                                                      | [Code](trees/construct-binary-tree-from-preorder-and-inorder-traversal/solution.py)            | [Notes](trees/construct-binary-tree-from-preorder-and-inorder-traversal/notes.md)         | Easy              |
 
 ---
 
