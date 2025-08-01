@@ -79,10 +79,6 @@
 73. [Same Tree](https://leetcode.com/problems/same-tree/)
 74. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
 54. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
-
-50. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
-51. [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
-53. [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 55. [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) -->
 
 Welcome to the Blind 75 LeetCode Solutions repository! Here, you'll find daily solutions to LeetCode problems, complete with detailed explanations.
@@ -180,6 +176,7 @@ Welcome to the Blind 75 LeetCode Solutions repository! Here, you'll find daily s
 | 41             | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                                                       | [Code](trees/diameter-of-binary-tree/solution.py)            | [Notes](trees/diameter-of-binary-tree/notes.md)         | Easy              |
 | 42             | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)                                                      | [Code](trees/balanced-binary-tree/solution.py)            | [Notes](trees/balanced-binary-tree/notes.md)         | Easy              |
 | 43             | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                                      | [Code](trees/invert-binary-tree/solution.py)            | [Notes](trees/invert-binary-tree/notes.md)         | Easy              |
+| 44             | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)                                                      | [Code](trees/binary-tree-right-side-view/solution.py)            | [Notes](trees/binary-tree-right-side-view/notes.md)         | Easy              |
 
 ---
 
