@@ -77,7 +77,6 @@
 ## Tree
 
 69. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
-70. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 71. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 72. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
 73. [Same Tree](https://leetcode.com/problems/same-tree/)
@@ -180,6 +179,7 @@ Welcome to the Blind 75 LeetCode Solutions repository! Here, you'll find daily s
 | 37             | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)                                                       | [Code](trees/lowest-common-ancestor-of-a-binary-search-tree/solution.py)            | [Notes](trees/lowest-common-ancestor-of-a-binary-search-tree/notes.md)         | Medium              |
 | 38             | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)                                                       | [Code](trees/lowest-common-ancestor-of-a-binary-tree/solution.py)            | [Notes](trees/lowest-common-ancestor-of-a-binary-tree/notes.md)         | Medium              |
 | 39             | [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)                                                       | [Code](trees/serialize-and-deserialize-bst/solution.py)            | [Notes](trees/serialize-and-deserialize-bst/notes.md)         | Medium              |
+| 40             | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                                       | [Code](trees/maximum-depth-of-binary-tree/solution.py)            | [Notes](trees/maximum-depth-of-binary-tree/notes.md)         | Easy              |
 
 ---
 
