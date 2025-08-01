@@ -172,11 +172,13 @@ Welcome to the Blind 75 LeetCode Solutions repository! Here, you'll find daily s
 
 ---
 
-### Topic: Trees
+### Topic: Binary Tree and Binary Search Trees
 
 | Problem Number | Problem Name                                                                                                                    | Jump into Code | Explanation | Difficulty Level |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------- | -------------- | ----------- | ---------------- |
 | 36             | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                                                       | [Code](trees/binary-tree-level-order-traversal/solution.py)            | [Notes](trees/binary-tree-level-order-traversal/notes.md)         | Medium              |
+| 37             | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)                                                       | [Code](trees/lowest-common-ancestor-of-a-binary-search-tree/solution.py)            | [Notes](trees/lowest-common-ancestor-of-a-binary-search-tree/notes.md)         | Medium              |
+| 38             | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)                                                       | [Code](trees/lowest-common-ancestor-of-a-binary-tree/solution.py)            | [Notes](trees/lowest-common-ancestor-of-a-binary-tree/notes.md)         | Medium              |
 
 ---
 
