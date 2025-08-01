@@ -169,6 +169,15 @@ Welcome to the Blind 75 LeetCode Solutions repository! Here, you'll find daily s
 
 ---
 
+### Topic: Binary
+
+| Problem Number | Problem Name                                                                                                                    | Jump into Code | Explanation | Difficulty Level |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------- | -------------- | ----------- | ---------------- |
+| 42             | [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/)                                                      | [Code](trie/implement-trie-prefix-tree/solution.py)            | [Notes](trie/implement-trie-prefix-tree/notes.md)         | Medium              |
+
+
+---
+
 
 <!-- ### Topic: Binary
 
