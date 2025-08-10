@@ -19,7 +19,7 @@ Each topic contains:
 |---------------------------|--------------------------------------------------------------|
 | Blind 75                  | [Blind 75](./Blind-75/README.md)                             |
 | Arrays and Strings        | [Arrays and Strings](./Topics/Arrays-and-Strings/README.md)  |
-| Recursion                 | [Recurison](./Topics/Recursion/README.md)                    |
+| Recursion                 | [Recursion](./Topics/Recursion/README.md)                    |
 | Math                      | [Math](./Topics/Math/README.md)                              |
 | Linked List               | [Linked List](./Topics/LinkedList/README.md)                 |
 | Trees                     | [Trees](./Topics/Trees/README.md)                            |
