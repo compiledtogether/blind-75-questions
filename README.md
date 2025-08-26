@@ -23,7 +23,7 @@ Each topic contains:
 | Math                      | [Math](./Topics/Math/README.md)                              |
 | Linked List               | [Linked List](./Topics/LinkedList/README.md)                 |
 | Trees                     | [Trees](./Topics/Trees/README.md)                            |
-| Revision                     | [Revision](./Revision.md)                                 |
+| Revision                     | [Revision](./REVISION.md)                                 |
 <!-- | Two Pointers              | [Two Pointers](./Topics/TwoPointers/README.md)               | -->
 <!-- | Stack                     | [Stack](./Topics/Stack/README.md)                            |
 | Queue                     | [Queue](./Topics/Queue/README.md)                            |
